@@ -3,7 +3,7 @@
 This project implements the backend of a Slackbot command for Numeno Feeds that
 fetches articles from a Numeno Article Recommender Feed and publishes them to a
 Slack channel. The PHP scripts are designed for a WordPress site, but the
-routes can be easly changed for a non-Wordpress host.
+routes can be easily changed for a non-Wordpress host.
 
 # Install Dependencies
 
