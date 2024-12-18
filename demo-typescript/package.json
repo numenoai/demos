@@ -1,0 +1,27 @@
+{
+  "name": "ts-test",
+  "version": "0.0.1",
+  "description": "Demonstrates use of the Numeno APIs in a TypeScript project",
+  "license": "MIT",
+  "author": "Numeno AI inc. <contact@numeno.ai>",
+  "keywords": [
+    "numeno",
+    "api"
+  ],
+  "homepage": "https://numeno.ai",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "format": "prettier --write --no-semi ."
+  },
+  "dependencies": {
+    "@waverlyai/api-admin": "^0.0.5",
+    "@waverlyai/api-art-rec": "^0.0.6",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "tsx": "^4.19.2"
+  }
+}
