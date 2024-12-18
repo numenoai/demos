@@ -18,7 +18,7 @@ This repo demonstrates the use of Numeno in TypeScript.
 
 It walks you through how to administer Keys and Scopes, create Feeds and manipulate Streams, and fetch Artciles, all with the Numeno TypeScript API Libraries.
 
-- **[Numeno TypeScript API Demo](https://github.com/numenoai/demos/tree/main/demo-typescript-code)**
+- **[Numeno TypeScript API Demo](https://github.com/numenoai/demos/tree/main/demo-typescript)**
 - Language: TypeScript
 - Integeration Environment: _none / command-line_
 
