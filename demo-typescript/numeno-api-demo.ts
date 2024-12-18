@@ -100,7 +100,7 @@ async function main() {
 
   // We can't continue without a key.
   if (!artRecKey) {
-    console.log("returning")
+    console.log("Aborting")
     return
   }
 

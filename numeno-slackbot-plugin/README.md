@@ -1,4 +1,4 @@
-# Numeno Slackbot PHP Plugin
+# Numeno Feeds Slack App
 
 This project implements the backend of a Slackbot command for Numeno Feeds that
 fetches articles from a Numeno Article Recommender Feed and publishes them to a
