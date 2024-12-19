@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Demonstrates use of the Numeno APIs in a TypeScript project",
   "license": "MIT",
-  "author": "Numeno AI inc. <contact@numeno.ai>",
+  "author": "Numeno AI, Inc. <hello@numeno.ai>",
   "keywords": [
     "numeno",
     "api"
