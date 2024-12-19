@@ -10,8 +10,8 @@ routes can be easily changed for a non-Wordpress host.
 This project uses [Composer](https://getcomposer.org/) for managing dependencies in PHP.  After cloinging the repo, install Composer if necesary, then install dependencies:
 
 ```sh
-$ brew install composer  # Install composer globally on your system.
-$ make install           # Install dependencies for this project.
+$ brew install composer    # Install composer globally on your system.
+$ composer install         # Install dependencies for this project.
 ```
 
 # Configure the Slack App
