@@ -26,4 +26,4 @@ It walks you through how to administer Keys and Scopes, create Feeds and manipul
 
 Have you built something really cool with Numeno? Is there a Numeno integration or native API library you'd love to see?
 
-[Reach out to us!](mailto:contact@numeno.ai)
+[Reach out to us!](https://numeno.ai/contact/)
